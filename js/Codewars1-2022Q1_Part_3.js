@@ -11,6 +11,8 @@ function strCount(obj) {
 
 
 //!   6 kyu https://www.codewars.com/kata/base-conversion
+//?   В этом ката вы должны реализовать базовый преобразователь, который преобразует
+//?   положительные целые числа между произвольными базами/алфавитами. Вот несколько предопределенных алфавитов:
 
 //!   6 kyu https://www.codewars.com/kata/bingo-card
 
